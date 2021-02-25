@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<body>
+<html lang="en">
+<title>Squiggle-Curiosity Metro v1.0</title>
+<style>
+body {
+  background-image: url("wp1922814.png");
+}
+</style>
+<!-- START METRO -->
+<h1>
+<font size = "+30" color = "white">
+Start
+</font>
+</h1>
+<a href="https://www.msn.com/en-ca/weather?ocid=StripeOCID">
+<img border="0" alt="Weather"src="Screenshot 2021-02-24 at 10.04.10 AM.png"width="172" height="82">
+</a>
+<a href="https://www.microsoft.com/en-ca?ranMID=36509&ranEAID=xoqYgl4JDe8&ranSiteID=xoqYgl4JDe8-grCDWa9K37mKirpyWy6GSA&epi=xoqYgl4JDe8-grCDWa9K37mKirpyWy6GSA&irgwc=1&OCID=AID2000142_aff_7814_1243925&tduid=%28ir__fpvh3zzvqgkfqkjlkk0sohzncm2xpiwhjfyyabih00%29%287814%29%281243925%29%28xoqYgl4JDe8-grCDWa9K37mKirpyWy6GSA%29%28%29&irclickid=_fpvh3zzvqgkfqkjlkk0sohzncm2xpiwhjfyyabih00">
+<img border="0" alt="Store"src="Screenshot 2021-02-24 at 10.05.32 AM.png"width="82" height="82">
+</a>
+<a href="https://msn.com">
+<img border="0" alt="News"src="Screenshot 2021-02-24 at 10.07.16 AM.png"width="173" height="83">
+</a>
+<a href="https://www.msn.com/en-ca/sports?ocid=StripeOCID">
+<img border="0" alt="Sports"src="Screenshot 2021-02-24 at 10.11.47 AM.png"width="171" height="81">
+</a>
+<a href="https://outlook.live.com/calendar/0/">
+<img border="0" alt="Calender"src="Screenshot 2021-02-24 at 11.06.31 AM.png"width="170" height="82">
+</a>
+<a href="https://www.bing.com/maps/?FORM=MSNMAP&toWww=1&redig=09768CA053104D51AEE7C0E93116BF30">
+<img border="0" alt="Maps"src="Screenshot 2021-02-24 at 10.20.25 AM.png"width="83" height="82">
+</a>
+<a href="https://www.msn.com/en-ca/entertainment?ocid=StripeOCID">
+<img border="0" alt="Video"src="Screenshot 2021-02-24 at 10.23.56 AM.png"width="172" height="83">
+</a>
+<a href="https://outlook.live.com">
+<img border="0" alt="Mail"src="Screenshot 2021-02-24 at 10.28.12 AM.png"width="171" height="81">
+</a>
+<a href="https://zone.msn.com">
+<img border="0" alt="Games"src="Screenshot 2021-02-24 at 11.14.54 AM.png"width="83" height="82">
+</a>
+<br>
+<a href="https://bing.com">
+<img border="0" alt="Microsoft Bing"src="Screenshot 2021-02-24 at 11.20.53 AM.png"width="172" height="82">
+</a>
+<a href="https://skype.com">
+<img border="0" alt="Skype"src="Screenshot 2021-02-24 at 11.24.31 AM.png"width="172" height="82">
+</a>
+<a href="https://onedrive.live.com">
+<img border="0" alt="OneDrve"src="Screenshot 2021-02-24 at 11.26.44 AM.png"width="83" height="82">
+</a>
+<a href="https://read.amazon.ca/">
+<img border="0" alt="Kindle"src="Screenshot 2021-02-24 at 11.31.59 AM.png"width="171" height="81">
+</a>
+<a href="https://www.microsoft.com/en-ca/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1">
+<img border="0" alt="OneNote"src="Screenshot 2021-02-24 at 11.37.03 AM.png"width="83" height="82">
+</a>
+<a href="https://www.msn.com/en-ca/money">
+<img border="0" alt="Stocks"src="Screenshot 2021-02-24 at 11.46.01 AM.png"width="172" height="82">
+</a>
+<a href="https://zone.msn.com/gameplayer/gameplayerHTML.aspx?game=mssolitairecollection&intgid=hp_marketingmodule_2">
+<img border="0" alt="Solitare"src="Screenshot 2021-02-24 at 11.52.58 AM.png"width="83" height="82">
+</a>
+<a href="https://www.xbox.com/en-CA/">
+<img border="0" alt="Xbox LIVE Games"src="Screenshot 2021-02-24 at 12.05.23 PM.png"width="83" height="82">
+</a>
+<a href="https://onedrive.live.com/?v=photos&id=root&cid=C476A6E4264AE404&qt=allmyphotos">
+<img border="0" alt="(OneDrive) Photos"src="Screenshot 2021-02-24 at 12.18.07 PM.png"width="172" height="82">
+</a>
+ <a href="https://office.com">
+<img border="0" alt="Microsoft Office (365)"src="Screenshot 2021-02-24 at 12.36.38 PM.png"width="83" height="82">
+</a>  
